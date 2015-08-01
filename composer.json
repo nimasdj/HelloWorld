@@ -1,0 +1,26 @@
+{
+    "name": "nimasdj/HelloWorld",
+    "type": "library",
+    "description": "Just for learning GitHub/Packagist",
+    "keywords": ["learn","education"],
+    "homepage": "",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "nimasdj",
+            "email": "",
+            "homepage": "",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "ext-curl": "*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Nimasdj": "src"
+        }
+    }
+}
+
