@@ -10,7 +10,7 @@
         "ext-curl": "*"
     },
     "autoload": {
-        "psr-4": {
+        "psr-0": {
             "Nimasdj": ""
         }
     }
